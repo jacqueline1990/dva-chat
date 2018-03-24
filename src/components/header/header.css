@@ -1,0 +1,8 @@
+.topheader{
+    text-align: center;
+    height:1rem /* 40/75 */;
+    line-height: 1rem;
+    color:white;
+    font-size:18px;
+    word-spacing: 8px;
+}

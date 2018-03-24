@@ -1,0 +1,17 @@
+.logowrap{
+    position: relative;
+    margin-top:20px;
+    height:6.5rem;
+     
+}
+.logowrap img{
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    /* width:80%; */
+    /* height: 80%; */
+    width:6rem ;
+    height: 6rem;
+ 
+
+}

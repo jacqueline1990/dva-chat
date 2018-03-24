@@ -1,0 +1,23 @@
+.footer{
+
+    margin: 0;
+    padding: 0;
+    height:1.3rem;
+    position: fixed;
+    bottom: 0;
+}
+.oli{
+    text-decoration: none;
+    float: left;
+    height:100%;
+    line-height:1.3rem;
+    text-align: center;
+    list-style:none;
+    width:3.3rem;
+    border:1px solid red;
+    font-size:18px;
+}
+.active{
+    background: red;
+    color:white;
+}
